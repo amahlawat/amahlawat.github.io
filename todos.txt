@@ -1,0 +1,4 @@
+add resume
+add projects technologies tab
+check responsive, it's working but still check it again
+develop blogs 
